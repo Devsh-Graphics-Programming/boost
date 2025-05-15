@@ -770,7 +770,7 @@
 	branch = .
 [submodule "json"]
 	path = libs/json
-	url = ../json.git
+	url = ../json-boost.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "pfr"]
