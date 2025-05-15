@@ -417,7 +417,7 @@
 	url = ../wave.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
-	update = none
+	update = checkout
 [submodule "type_traits"]
 	path = libs/type_traits
 	url = ../type_traits.git
